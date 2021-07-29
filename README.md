@@ -9,7 +9,7 @@ a plugin to make the messages appear smoothly with a small animation
 <li>navigate to the <code>src</code> &gt; <code>Powercord</code> &gt; <code>plugins</code> folder</li>
 <li>right click this and select <code>Git Bash Here</code> (as shown in the screenshot below), and then type:</li>
 </ol>
-<div class="highlight highlight-source-shell position-relative"><pre>git clone https://github.com/spinfish/bored-powercord-plugin</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<div class="highlight highlight-source-shell position-relative"><pre>git clone https://github.com/battlefilm/animtext</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/spinfish/bored-powercord-plugin
 " tabindex="0" role="button">
       <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-clippy js-clipboard-clippy-icon m-2">
